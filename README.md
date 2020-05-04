@@ -8,11 +8,11 @@ If you have made it so far, that means that it's time to show your coding skills
 
 As you probably already know, BQ is a company known for working on really different kind of projects: backend-based apps, IoT, robotics, 3D printing, camera, eBooks, etc.
 
-For this challenge we want you to put in practice daily knowledge related to iOS development with freedom to pick you own architecture, stack of libs that you usually used and event design decisions regarding UI. Actually, we want to see them as well as why you took them. So please write a `README` of your thoughts within your repository in Markdown.
+For this challenge we want you to put in practice daily knowledge related to iOS development with freedom to pick you own architecture, stack of libs that you usually used and event design decisions regarding UI. Actually, we want to see them as well as why you took them. So please write a `README` containing your development decisions within your repository in Markdown style.
 
 The **only requisite is to use Swift** as the programming language: we try to avoid as much as possible the old grandpa-C.
 
-So, now that we have a common starting point, let's start!
+So, now that we are ready to go, let's start!
 
 # Marvel Popularity Contest
 
